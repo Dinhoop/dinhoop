@@ -1,7 +1,9 @@
-### Meu nome é Anderson, um pouco sobre mim:
+### Olá nome é Anderson, um pouco sobre mim:
+<br>
 
-* Graduando em Análise e Desenvolvimento de Sistemas pela PucMinas
-* Graduando em Engenharia de Software pela Estácio
+* Cursando Graduação em Análise e Desenvolvimento de Sistemas pela Puc Minas.
+<br>
+
 
 #### Desenvolvedor FullStack / FullCycle
 
@@ -11,9 +13,10 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![MARKDOWN](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
  
@@ -39,6 +42,7 @@ e-mail: ` anderson[at]digitallone.net `
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Docker Automated build](https://img.shields.io/docker/automated/dinhoop/dinhoop?logo=docker&label=Docker)
+![MARKDOWN](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 
 
