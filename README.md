@@ -7,7 +7,14 @@
   
 
 Anderson da Silva Gomes
-anderson[at]digitallone.net
+e-mail: ` anderson[at]digitallone.net `
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinhoop&show_icons=true)](https://github.com/dinhoop/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinhoop)](https://github.com/dinhoop/github-readme-stats)
+
+
+
 
 <!--
 **Dinhoop/dinhoop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
