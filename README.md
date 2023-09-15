@@ -1,6 +1,13 @@
 ### Desenvolvedor de Software
 
+* Graduando em Análise e Desenvolvimento de Sistemas pela PucMinas
+* Graduando em Engenharia de Software pela Estácio
+
+#### Desenvolvedor FullStack / FullCycle
+  
+
 Anderson da Silva Gomes
+anderson[at]digitallone.net
 
 <!--
 **Dinhoop/dinhoop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
