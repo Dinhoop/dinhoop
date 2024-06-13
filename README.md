@@ -2,7 +2,7 @@
 <br>
 
 * Cursando Graduação em Análise e Desenvolvimento de Sistemas pela Puc Minas &
-* Engenharia de Software pela Estácio.
+* Engenharia de Software.
 <br>
 
 
