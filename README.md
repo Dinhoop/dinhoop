@@ -1,7 +1,8 @@
 ### Olá nome é Anderson, um pouco sobre mim:
 <br>
 
-* Cursando Graduação em Análise e Desenvolvimento de Sistemas pela Puc Minas.
+* Cursando Graduação em Análise e Desenvolvimento de Sistemas pela Puc Minas &
+* Engenharia de Software pela Estácio.
 <br>
 
 
