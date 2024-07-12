@@ -22,7 +22,7 @@
 
 As principais tecnologias de meu interesse estão:
 
-JavaScript, TypeScript, Node.Js, Html, Css, Cultura Devops e Cloud Computing (AWS) e Linux.
+JavaScript, TypeScript, Node.Js, React, Html, Css, Banco de dados SQL e NoSQL, Cultura Devops, Cloud Computing (AWS) e Linux.
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=dinhoop&show_icons=true&&hide=prs,issues,contribs)](https://github.com/dinhoop/github-readme-stats)
 
