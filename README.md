@@ -20,14 +20,9 @@
 
 #### Tecnologias que estou estudando atualmente: ####
 
+As principais tecnologias de meu interesse estão:
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+JavaScript, TypeScript, Node.Js, Html, Css, Cultura Devops e Cloud Computing (AWS) e Linux.
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=dinhoop&show_icons=true&&hide=prs,issues,contribs)](https://github.com/dinhoop/github-readme-stats)
 
