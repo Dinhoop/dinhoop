@@ -12,7 +12,7 @@
 
 
 1. https://github.com/Dinhoop/Projeto-Roda-Velha
-   Projeto completo com foco principal no back-end, onde efetuamos a modalagem completa do sistema, do banco de dados até o seu deploy em uma máquina virtual na Azure.
+   Projeto completo com foco principal no back-end, onde efetuamos a modelagem completa do sistema, do banco de dados até o seu deploy em uma máquina virtual na Azure.
 
 3. https://github.com/Dinhoop/VoluntaRia
    Projeto com foco principal no front-end onde criamos o design usando HTML, CSS e JavaScript, além de BootStrap parcialmente. O back-end foi simulado usando o local storage do navegador.
