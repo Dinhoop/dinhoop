@@ -42,12 +42,19 @@ Interesse contínuo em Arquitetura, DevOps e Cloud Computing (AWS)
 
 **1. Psiconecta**
 
-Sistema completo especializado na gestão de clínicas de Psicologia, desenvolvido para uma cliente real.  
-Back-end em **C# exposto via API REST**, banco de dados **SQL Server**, e front-end em **Next.js** consumindo a API.
+Sistema completo para gestão de clínicas de Psicologia, desenvolvido para uma cliente real.
 
-A infraestrutura foi definida como código e implantada em **máquina virtual**, utilizando **GitHub Actions e Ansible**, com os serviços executando em **containers isolados**, permitindo **escalabilidade e manutenção independentes**.
+Arquitetura baseada em **serviços desacoplados**, com:
+- Back-end em **C# exposto via API REST**
+- Front-end em **Next.js**
+- Banco de dados **SQL Server**
+- **Reverse proxy com Nginx**, separando acesso web e API (`psiconecta.co` e `api.psiconecta.co`)
+- Serviços executando em **containers isolados**
+
+Pipeline **CI/CD automatizado**, onde o **GitHub Actions aciona o Ansible** para provisionamento e deploy da infraestrutura, com **configuração via variáveis de ambiente** armazenadas em *secrets*.
 
 🔗 https://www.psiconecta.co
+
 
 
 **2. TaskMaster**
