@@ -5,9 +5,9 @@
 
 Graduado em Análise e Desenvolvimento de Sistemas (**PUC Minas**) e atualmente **graduando em Engenharia de Software** (término em dez/2026). Tenho forte interesse em **engenharia de software, arquitetura de software, back-end, boas práticas e cultura DevOps/DevSecOps**.
 
-<table>
+<table style="border:none;border-collapse:collapse;">
   <tr>
-    <td width="80%">
+    <td style="border:none;" width="60%">
       
 ### O que eu faço
 
@@ -20,11 +20,12 @@ Desenvolvimento aplicações end-to-end, aplicando conceitos de:
 - Organização e qualidade de código  
 
     </td>
-    <td width="20%" align="center">
-    <img width="250" alt="cloud_dinhoop" src="https://github.com/user-attachments/assets/f79b53d4-59e6-4d2f-aecf-9b86d45ea4a5" />
+    <td style="border:none;" width="40%" align="center">
+      <img width="400" alt="cloud_dinhoop" src="https://github.com/user-attachments/assets/f79b53d4-59e6-4d2f-aecf-9b86d45ea4a5" />
     </td>
   </tr>
 </table>
+
 
 
 
