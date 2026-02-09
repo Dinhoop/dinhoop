@@ -1,8 +1,8 @@
 ### Olá nome é Anderson, um pouco sobre mim:
 <br>
 
-* Graduando em Análise e Desenvolvimento de Sistemas pela Puc Minas &
-* Engenharia de Software.
+* Graduado em Análise e Desenvolvimento de Sistemas pela Puc Minas &
+* Graduando em Engenharia de Software (término em dezembro de 2026).
 <br>
 
 
