@@ -1,3 +1,6 @@
+
+**Desenvolvedor Full Stack com foco em back-end, arquitetura de software e soluções em cloud**
+
 ### Sobre mim
 
 Graduado em Análise e Desenvolvimento de Sistemas (**PUC Minas**) e atualmente **graduando em Engenharia de Software** (término em dez/2026). Tenho forte interesse em **engenharia de software, arquitetura de software, back-end, boas práticas e cultura DevOps/DevSecOps**.
