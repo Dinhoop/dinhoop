@@ -1,16 +1,52 @@
-### Olá nome é Anderson, um pouco sobre mim:
-<br>
+### Sobre mim
 
-* Graduado em Análise e Desenvolvimento de Sistemas pela Puc Minas &
-* Graduando em Engenharia de Software (término em dezembro de 2026).
-<br>
+Sou Desenvolvedor Full Stack com foco em soluções completas, atuando desde a modelagem do banco de dados até o deploy em cloud.
 
+Graduado em Análise e Desenvolvimento de Sistemas (PUC Minas) e atualmente graduando em Engenharia de Software (término em dez/2026).
+Tenho forte interesse em arquitetura, back-end, boas práticas e cultura DevOps/DevSecOps.
 
-#### Desenvolvedor FullStack / FullCycle ####
+### O que eu faço
 
-Transformando ideias em código e entregando soluções de ponta a ponta.
+Desenvolvimento aplicações end-to-end, aplicando conceitos de:
 
-#### Projetos Completos Desenvolvidos até o momento:
+Modelagem de dados
+
+APIs REST
+
+Versionamento com Git
+
+Deploy em cloud e Infraestrutura como código
+
+Organização e qualidade de código
+
+### Projetos em destaque
+
+=> Projeto Roda Velha
+
+Sistema completo com foco em back-end
+
+Modelagem de banco de dados
+
+Implementação de regras de negócio
+
+Deploy em máquina virtual na Azure
+🔗 https://github.com/Dinhoop/Projeto-Roda-Velha
+
+=> VoluntaRia
+
+Projeto com foco em front-end
+
+Interface desenvolvida com HTML, CSS, JavaScript e Bootstrap
+
+Simulação de back-end utilizando Local Storage
+🔗 https://github.com/Dinhoop/VoluntaRia
+
+### Tecnologias
+
+Principais stacks e ferramentas:
+C#, Postgres, SQL Server, JavaScript, TypeScript, React / Next.JS, HTML, CSS, Linux, Git, Ansible, Nginx
+
+Interesse contínuo em Arquitetura, DevOps e Cloud Computing (AWS)
 
 
 1. https://github.com/Dinhoop/Projeto-Roda-Velha
@@ -19,12 +55,6 @@ Transformando ideias em código e entregando soluções de ponta a ponta.
 3. https://github.com/Dinhoop/VoluntaRia
    Projeto com foco principal no front-end onde criamos o design usando HTML, CSS e JavaScript, além de BootStrap parcialmente. O back-end foi simulado usando o local storage do navegador.
    
-
-#### Tecnologias que estou estudando atualmente: ####
-
-As principais tecnologias de meu interesse estão:
-
-JavaScript, TypeScript, Node.Js, React, Html, Css, Banco de dados SQL e NoSQL, Cultura Devops, Cloud Computing (AWS) e Linux.
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=dinhoop&show_icons=true&&hide=prs,issues,contribs)](https://github.com/dinhoop/github-readme-stats)
 
@@ -57,32 +87,3 @@ JavaScript, TypeScript, Node.Js, React, Html, Css, Banco de dados SQL e NoSQL, C
 ![Docker Automated build](https://img.shields.io/docker/automated/dinhoop/dinhoop?logo=docker&label=Docker)
 ![MARKDOWN](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-
-
-## Tecnologias que estou estudando atualmente: 
-\_
-\_
-\_
-
-
-
- ![FLUTTER](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
- ![SHE SCRIPT]( 	https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
- ![PRISMA](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
- ![VUE](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
- ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
- ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Dinhoop/dinhoop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
