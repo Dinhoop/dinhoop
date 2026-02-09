@@ -28,7 +28,7 @@ Principais stacks e ferramentas:
 
 **Back-end:** C#, Postgres, SQL Server  
 **Front-end:** JavaScript, TypeScript, React, Next.JS, HTML, CSS  
-**Infra / DevOps:** Linux, Git, Ansible, Nginx  
+**Infra / DevOps:** Linux, Git, Github Actions, Ansible, Nginx  
 
 Interesse contínuo em Arquitetura, DevOps e Cloud Computing (AWS)
 
