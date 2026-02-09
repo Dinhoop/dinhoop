@@ -13,7 +13,8 @@ Desenvolvimento aplicações end-to-end, aplicando conceitos de:
 - APIs REST  
 - Versionamento com Git  
 - Deploy em cloud e Infraestrutura como Código (IaC)  
-- Organização e qualidade de código  
+- Organização e qualidade de código
+- Trabalho orientado a **metodologias ágeis (Scrum e Kanban)**
 
 <p align="center">
   <img width="400" alt="cloud_dinhoop" src="https://github.com/user-attachments/assets/f79b53d4-59e6-4d2f-aecf-9b86d45ea4a5" />
