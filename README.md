@@ -28,7 +28,9 @@ Principais stacks e ferramentas:
 
 **Back-end:** C#, Postgres, SQL Server  
 **Front-end:** JavaScript, TypeScript, React, Next.JS, HTML, CSS  
-**Infra / DevOps:** Linux, Git, GitHub Actions, Ansible, Nginx  
+**Infra / DevOps:** Linux, Git, GitHub Actions, Ansible, Nginx 
+**Mobile:** Flutter (Android)
+
 
 Interesse contínuo em Arquitetura, DevOps e Cloud Computing (AWS)
 
@@ -58,6 +60,24 @@ Pipeline **CI/CD automatizado**, onde o **GitHub Actions aciona o Ansible** para
   Sistema completo de gestão de tarefas pessoais/profissionais, incluindo aplicação mobile, banco de dados NoSQL MongoDB. Aplicativo criado em React Native, front-end em Next.Js/React.
 
 🔗  https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2025-1-e4-proj-dad-t2-task-master
+
+**3. Ultimate IMC (Android)**
+
+Aplicativo Android desenvolvido em **Flutter** e publicado na **Google Play Store**, desenvolvido para controle e acompanhamento de peso corporal.
+
+Funcionalidades:
+- Offline first
+- Registro diário de peso com **inserção de imagens**
+- Histórico e **visualização gráfica** da evolução corporal
+- Cálculo de **taxa metabólica basal**
+- Cálculo de **composição corporal** (método da Marinha Americana)
+- Gerenciamento de **múltiplos perfis de usuário**
+- Área administrativa para organização dos dados
+
+Projeto mantido ativo desde **2022**, com atualizações periódicas para atender aos requisitos da Play Store.
+
+🔗 https://play.google.com/store/apps/details?id=com.d3empreendimentos.imc&pcampaignid=web_share
+
 
 **3. Projeto Roda Velha**
 
