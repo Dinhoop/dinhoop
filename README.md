@@ -28,13 +28,9 @@ Principais stacks e ferramentas:
 
 **Back-end:** C#, Postgres, SQL Server  
 **Front-end:** JavaScript, TypeScript, React, Next.JS, HTML, CSS  
-**Infra / DevOps:** Linux, Git, Github Actions, Ansible, Nginx  
+**Infra / DevOps:** Linux, Git, GitHub Actions, Ansible, Nginx  
 
 Interesse contínuo em Arquitetura, DevOps e Cloud Computing (AWS)
-
-
-Interesse contínuo em Arquitetura, DevOps e Cloud Computing (AWS)
-
 
 
 ### Projetos em destaque
@@ -59,7 +55,7 @@ Pipeline **CI/CD automatizado**, onde o **GitHub Actions aciona o Ansible** para
 
 **2. TaskMaster**
 
-  Sistema completo de gestão de tarefas pessoais/profissionais, incluindo aplicação mobile, banco de dados NoSQL MongoDB. Aplicativo criado em Reac Native, front-end em Next.Js/React.
+  Sistema completo de gestão de tarefas pessoais/profissionais, incluindo aplicação mobile, banco de dados NoSQL MongoDB. Aplicativo criado em React Native, front-end em Next.Js/React.
 
 🔗  https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2025-1-e4-proj-dad-t2-task-master
 
