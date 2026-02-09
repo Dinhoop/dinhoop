@@ -7,7 +7,7 @@ Graduado em Análise e Desenvolvimento de Sistemas (**PUC Minas**) e atualmente 
 
 ### O que eu faço
 
-Desenvolvimento aplicações end-to-end, aplicando conceitos de:
+Desenvolvo aplicações end-to-end, atuando desde a concepção até o deploy, aplicando conceitos de:
 
 - Modelagem de dados  
 - APIs REST  
@@ -25,7 +25,13 @@ Desenvolvimento aplicações end-to-end, aplicando conceitos de:
 ### Tecnologias
 
 Principais stacks e ferramentas:
-C#, Postgres, SQL Server, JavaScript, TypeScript, React / Next.JS, HTML, CSS, Linux, Git, Ansible, Nginx
+
+**Back-end:** C#, Postgres, SQL Server  
+**Front-end:** JavaScript, TypeScript, React, Next.JS, HTML, CSS  
+**Infra / DevOps:** Linux, Git, Ansible, Nginx  
+
+Interesse contínuo em Arquitetura, DevOps e Cloud Computing (AWS)
+
 
 Interesse contínuo em Arquitetura, DevOps e Cloud Computing (AWS)
 
@@ -36,9 +42,13 @@ Interesse contínuo em Arquitetura, DevOps e Cloud Computing (AWS)
 
 **1. Psiconecta**
 
-  Sistema completo especializado na gestão de clínicas de Psicologia, feito para uma cliente real, projeto envolvendo back-end em c# acessado como api, banco de dados SQL Server, front-end em Next.JS consumindo a api, infraestrutura como código implantado em uma máquina virtual usando Github Actions e Ansible para a configuração da infra estrutura.
+Sistema completo especializado na gestão de clínicas de Psicologia, desenvolvido para uma cliente real.  
+Back-end em **C# exposto via API REST**, banco de dados **SQL Server**, e front-end em **Next.js** consumindo a API.
 
-🔗  https://www.psiconecta.co
+A infraestrutura foi definida como código e implantada em **máquina virtual**, utilizando **GitHub Actions e Ansible**, com os serviços executando em **containers isolados**, permitindo **escalabilidade e manutenção independentes**.
+
+🔗 https://www.psiconecta.co
+
 
 **2. TaskMaster**
 
