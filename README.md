@@ -8,6 +8,8 @@
 
 #### Desenvolvedor FullStack / FullCycle ####
 
+Transformando ideias em código e entregando soluções de ponta a ponta.
+
 #### Projetos Completos Desenvolvidos até o momento:
 
 
