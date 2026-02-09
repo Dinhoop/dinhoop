@@ -79,13 +79,13 @@ Projeto mantido ativo desde **2022**, com atualizações periódicas para atende
 🔗 https://play.google.com/store/apps/details?id=com.d3empreendimentos.imc&pcampaignid=web_share
 
 
-**3. Projeto Roda Velha**
+**4. Projeto Roda Velha**
 
   Sistema completo com foco em back-end, envolvendo **modelagem de dados, regras de negócio e deploy em Azure**.
 
 🔗 https://github.com/Dinhoop/Projeto-Roda-Velha
 
-**4. VoluntaRia**
+**5. VoluntaRia**
 
 Projeto com foco principal no front-end onde criamos o design usando HTML, CSS e JavaScript, além de BootStrap parcialmente. O back-end foi simulado usando o local storage do navegador.
 
