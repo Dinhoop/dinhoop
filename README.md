@@ -5,15 +5,28 @@
 
 Graduado em Análise e Desenvolvimento de Sistemas (**PUC Minas**) e atualmente **graduando em Engenharia de Software** (término em dez/2026). Tenho forte interesse em **engenharia de software, arquitetura de software, back-end, boas práticas e cultura DevOps/DevSecOps**.
 
+<table>
+  <tr>
+    <td width="80%">
+      
 ### O que eu faço
 
 Desenvolvimento aplicações end-to-end, aplicando conceitos de:
 
-* Modelagem de dados
-* APIs REST
-* Versionamento com Git
-* Deploy em cloud e Infraestrutura como código (IaC)
-* Organização e qualidade de código
+- Modelagem de dados  
+- APIs REST  
+- Versionamento com Git  
+- Deploy em cloud e Infraestrutura como Código (IaC)  
+- Organização e qualidade de código  
+
+    </td>
+    <td width="20%" align="center">
+    <img width="250" alt="cloud_dinhoop" src="https://github.com/user-attachments/assets/f79b53d4-59e6-4d2f-aecf-9b86d45ea4a5" />
+    </td>
+  </tr>
+</table>
+
+
 
 ### Projetos em destaque
 
